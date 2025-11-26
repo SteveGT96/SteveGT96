@@ -1,68 +1,118 @@
-# Hi there, I'm Steve Tsala 👋
+# 👋 Hi, I'm Steve Tsala
 
-## 🚀 Full-Stack Developer | AI Enthusiast | Clean Architecture Advocate
+**Full-stack engineer | Kotlin & Spring Boot expert | React & Angular developer | Multiplatform & API specialist | AI Agent Builder**
 
-I'm a passionate full-stack developer skilled in **Kotlin**, **Spring Boot**, **React**, **Angular**, and **MongoDB**. I build modern, scalable applications, AI agents, and authentication systems. I'm passionate about clean architecture, developer tooling, and delivering high-quality software with international teams.
+I design and build modern, scalable applications across web, mobile, and desktop — with a deep focus on backend engineering, API design, distributed authentication, and developer experience.
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-stack developer specialized in backend architecture, high-quality frontend tooling, and advanced API systems
+- 🔧 Experienced with REST, GraphQL, RPC, and AI-driven workflows
+- 🌍 Work with international teams (Intesys, ISF, Adesso, ExMachina)
+- ⚙️ Passionate about building AI Agents, automation tools, and developer utilities
+- 📦 Love crafting reusable components, libraries, and cross-platform applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### 🔹 Backend
+
+**REST APIs:**
+- Bun + Hono, Kotlin Ktor, Spring Boot (Java/Kotlin)
+
+**GraphQL:**
+- Bun + Express + Apollo, Spring Boot GraphQL, Ktor GraphQL
+
+**RPC:**
+- kotlinx-rpc for fast, type-safe client/server communication
+
+**Auth & Security:**
+- OAuth2, Spring Authorization Server, SSO, JWT
+
+**Architectures:**
+- Clean Architecture, modular monoliths, micromodules
+
+### 🔹 Frontend & Multiplatform
+
+- React, Angular, TailwindCSS, Shadcn, Vite
+
+**Mobile/Desktop/X-Platform:**
+- Compose Multiplatform (Desktop + Android)
+- Flutter, React Native
+
+**Full Multiplatform Stacks:**
+- Compose Multiplatform + Ktor RPC
+- Compose Multiplatform + Spring Boot GraphQL
+
+### 🔹 Databases
+
+- MongoDB, Redis
+- MySQL, PostgreSQL
+- Spring Data MongoDB, Mongoose, drizzle-orm
+- GridFS document storage
+
+### 🔹 Testing & DevOps
+
+- Cypress, Playwright
+- Kotest, Mockito, Mockk
+- Docker, Bun
+
+### 🔹 Languages
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🧩 Highlighted Experience
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [nxgt-amper](https://github.com/SteveGT96/nxgt-amper) | A Kotlin/Spring Boot application with GraphQL | Kotlin, Spring Boot, GraphQL |
+### 🔸 Open Hospital 2.0
+- React migration 16 → 18, Redux → Redux Toolkit
+- API optimization, token refresh, security improvements
+- **Tech:** React • Spring Boot
 
-<!-- More projects coming soon - private repositories will be made public -->
+### 🔸 Holding App (Team Lead)
+- Built 90% of backend (Spring + MySQL)
+- Led Angular frontend team, created styled email templates
+- **Tech:** Spring Boot • Angular 19
 
----
+### 🔸 CSSO IAM
+- OAuth2 Authorization Server, full SSO flows
+- User management + secure authentication system
+- **Tech:** Spring Boot • Kotlin • MongoDB • React
 
-## 💡 What I Do
-
-- 🔐 **Authentication & Security Systems** - Building robust authentication systems with modern security practices
-- 🤖 **AI Agents** - Developing intelligent AI agents for automation and enhanced workflows
-- 📱 **Modern Web Applications** - Creating scalable, responsive applications with React and Angular
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 AI/ML integrations and LLM-powered applications
-- 🏗️ Clean architecture patterns and domain-driven design
-- 🔧 Developer experience and tooling improvements
+*…and more: Veritas SOL 2, EPAL, U2GESCO, Token Creator, Scholarship.*
 
 ---
 
-## 📫 Let's Connect
+## 🔧 Notable Projects
 
-Feel free to reach out for collaborations, discussions about tech, or just to say hi!
+| Project | Description |
+|---------|-------------|
+| 🗃️ **MongoDB Migration Module** | Automatic migrations for Spring Boot apps, inspired by Mongock |
+| 📝 **MongoDB Audit (WebFlux + Kotlin)** | Auditing system using JaVers Core + Spring Data callbacks |
+| 🔐 **GraphQL Fine-Grained Auth Directive** | Restrict field access based on roles and permissions |
+| 📦 **React UI Component Library** | Tailwind + Shadcn-based reusable frontend components |
+| 🤖 **AI Agents** | Lightweight agents for automation, API workflows, and dev productivity |
+| 🖥️ **Full-Stack Multiplatform Apps** | Compose Multiplatform + Ktor RPC for Desktop + Android, Compose Multiplatform + Spring Boot GraphQL with automatic schema-driven clients |
 
 ---
 
-⭐ *"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
+## 🎮 Hobbies
+
+Coding, eFootball, Yu-Gi-Oh Master Duel, anime.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: stevegires@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/steve-tsala-09ab21187](https://linkedin.com/in/steve-tsala-09ab21187)
+- 🐙 GitHub: [github.com/SteveGT96](https://github.com/SteveGT96)

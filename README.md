@@ -108,11 +108,3 @@ I design and build modern, scalable applications across web, mobile, and desktop
 ## 🎮 Hobbies
 
 Coding, eFootball, Yu-Gi-Oh Master Duel, anime.
-
----
-
-## 📫 Contact
-
-- 📧 Email: stevegires@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/steve-tsala-09ab21187](https://linkedin.com/in/steve-tsala-09ab21187)
-- 🐙 GitHub: [github.com/SteveGT96](https://github.com/SteveGT96)

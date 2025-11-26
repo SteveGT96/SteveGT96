@@ -21,10 +21,10 @@ I design and build modern, scalable applications across web, mobile, and desktop
 ### 🔹 Backend
 
 **REST APIs:**
-- Bun + Hono, Kotlin Ktor, Spring Boot (Java/Kotlin)
+- Bun + Hono, Kotlin Ktor, Quarkus, Spring Boot (Java/Kotlin), Vapor(Swift)
 
 **GraphQL:**
-- Bun + Express + Apollo, Spring Boot GraphQL, Ktor GraphQL
+- Bun + Express + Apollo, Spring Boot GraphQL
 
 **RPC:**
 - kotlinx-rpc for fast, type-safe client/server communication
@@ -44,8 +44,8 @@ I design and build modern, scalable applications across web, mobile, and desktop
 - Flutter, React Native
 
 **Full Multiplatform Stacks:**
-- Compose Multiplatform + Ktor RPC
-- Compose Multiplatform + Spring Boot GraphQL
+- Compose Multiplatform + Ktor RPC | REST API
+- Compose Multiplatform + Spring Boot GraphQL | REST API
 
 ### 🔹 Databases
 

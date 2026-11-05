@@ -1,4 +1,4 @@
-# 👋 Hi, I'm TSALA Steve Gires
+# 👋 Hi, I'm Steve Gires Tsala
 
 **Full Stack Developer | Java/Kotlin Developer | Javascript/Typescript Developer | AI Agent Builder**
 
